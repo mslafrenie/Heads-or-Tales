@@ -8,7 +8,7 @@ The Numis-o-matic Machine was created for the purposes of HIST 5706: Guerilla Di
 
 [Our Northern Heritage](our-northern-heritage-coin.md)
 
-[The Voyageurs](canadian_flag_coin.md)
+[The Voyageurs](the_voyageurs_coin.md)
 
 [Family](family_coin.md)
 
