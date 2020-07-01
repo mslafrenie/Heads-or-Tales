@@ -1,6 +1,8 @@
-# Heads or Tales?: ANALYZING AND RESISTING CANADIAN MYTHS THROUGH THE ROYAL CANADIAN MINT’S “CREATE A CENTSATION” MILLENNIUM COIN CONTEST, 1999 to 2000
+# Heads or Tales?: Analyzing and Resisting Canadian Myths Through the Royal Canadian Mint’s “Create A Centsation” Millennium Coin Contest, 1999 to 2000
 
-The Numis-o-matic Machine was created for the purposes of HIST 5706: Guerilla Digital Public History. The goal of this project is to challenge dominant and official narratives of Canadian commemorative coins and to re-situate them in narratives that highlight the nuances of the histories they signify. The three coins chosen for this project were minted in the last four years and celebrate major anniversaries that are not as truthful as they appear upon first glance.
+These RTI models were created for the course HIST 5908, as credit toward the degree of Master of Arts in History – Public History with Specialization in Digital Humanities.
+
+The goal of this project is to challenge dominant narratives of Canadian commemorative coins and to re-situate them in narratives that highlight the nuances of the histories they signify and obscure. The six coins chosen for this project were minted as part of the "Create a Centsation" millennium coin contest. It is time to flip these coins and listen to their tales.
 
 *Click on the links below to learn more about the project and find further resources!*
  
