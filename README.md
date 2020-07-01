@@ -1,4 +1,4 @@
-# Heads or Tales?: Analyzing and Resisting Canadian Myths Through the Royal Canadian Mint’s “Create A Centsation” Millennium Coin Contest, 1999 to 2000
+# Analyzing and Resisting Canadian Myths Through the Royal Canadian Mint’s “Create A Centsation” Millennium Coin Contest, 1999 to 2000
 
 These RTI models were created for the course HIST 5908, as credit toward the degree of Master of Arts in History – Public History with Specialization in Digital Humanities.
 
