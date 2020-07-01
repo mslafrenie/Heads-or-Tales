@@ -2,8 +2,8 @@
 
 *     *     *     *  
 
-<div id="viewerContainer">
+<div id="https://github.com/mslafrenie/March-99-Coin/viewer.html">
   <script  type="text/javascript">
-    createRtiViewer("viewerContainer", "webrti", 900, 600); 
+    createRtiViewer("viewerContainer", "https://github.com/mslafrenie/March-99-Coin/tree/master/webrti-march", 900, 600); 
   </script>
 </div>
