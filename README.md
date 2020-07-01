@@ -8,7 +8,7 @@ The goal of this project is to challenge dominant narratives of Canadian commemo
  
 [The Log Drive](the_log_drive_coin.md)
 
-[Our Northern Heritage](our-northern-heritage-coin.md)
+[Our Northern Heritage](https://mslafrenie.github.io/April-99-Coin/viewer.html)
 
 [The Voyageurs](the_voyageurs_coin.md)
 
