@@ -1,18 +1,16 @@
+# Analyzing and Resisting Canadian Myths Through the Royal Canadian Mint’s Millennium Coin Contest, 1999-2000
 
+These RTI models were created for the course HIST 5908, as credit toward the degree of Master of Arts in History – Public History with Specialization in Digital Humanities.
 
-<h1> Heads or Tales?: Analyzing and Visualizing Canadian Narratives and Numismatics</h1>
+The goal of this project is to challenge dominant narratives of Canadian commemorative coins and to re-situate them in narratives that highlight the nuances of the histories they signify and obscure. The six coins chosen for this project were minted as part of the "Create a Centsation" millennium coin contest. It is time to flip these coins and listen to their tales.
 
-<p>The Numis-o-matic Machine was created for the purposes of HIST 5706: Guerilla Digital Public History. The goal of this project is to challenge dominant and official narratives of Canadian commemorative coins and to re-situate them in narratives that highlight the nuances of the histories they signify. The three coins chosen for this project were minted in the last four years and celebrate major anniversaries that are not as truthful as they appear upon first glance.</p>
-
-<p><i>Click on the links below to learn more about the project and find further resources!</i></p>
-
+*Click on the links below to learn more about the project and find further resources!*
+ 
 [The Log Drive](the_log_drive_coin.md)
 
-{% include embedder.html id=page.March-99-Coin %}
+[Our Northern Heritage](our_northern_heritage_coin.md)
 
-[Our Northern Heritage](our-northern-heritage-coin.md)
-
-[The Voyageurs](the_voyageurs_coin.md)
+[The Voyageurs](the-voyageurs-coin.md)
 
 [Family](family_coin.md)
 
