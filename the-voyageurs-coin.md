@@ -9,7 +9,7 @@
 
 **Description:** This "coin depicts the voyageurs who travelled Canada's rivers by canoe to explore new lands and develop the fur trade."
 
-**Myth Depicted:** Myth of the Wilderness, Myth of the Canoe
+**Myth Depicted:** Myth of the Wilderness via the canoe
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
