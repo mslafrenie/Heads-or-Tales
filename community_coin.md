@@ -11,6 +11,7 @@
 
 **Description:** This "coin portrays Canada's continuing leadership and contributions to the global community."
 
+**Myth Depicted:** Myth of Peacekeeping via global citizenship
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
