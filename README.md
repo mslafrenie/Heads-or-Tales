@@ -6,11 +6,15 @@ The Numis-o-matic Machine was created for the purposes of HIST 5706: Guerilla Di
  
 [The Log Drive](the_log_drive_coin.md)
 
+<div>
 <iframe src="https://mslafrenie.github.io/March-99-Coin/viewer.html">
+</div>
 
 [Our Northern Heritage](our-northern-heritage-coin.md)
 
+<div>
 <iframe src="https://mslafrenie.github.io/April-99-Coin/viewer.html" width= 100%><iframe> 
+</div>
 
 [The Voyageurs](the_voyageurs_coin.md)
 
