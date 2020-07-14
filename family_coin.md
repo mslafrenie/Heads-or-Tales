@@ -9,7 +9,7 @@
 
 **Alternative Title:** The Ties That Bind
 
-**Description:** 
+**Description:** This "coin is a tribute to the family, the fabric of Canadian society, and depicts two wolves, symbols of togetherness."
 
 
 <div id="viewerContainer">
