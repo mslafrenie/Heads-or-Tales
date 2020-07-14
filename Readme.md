@@ -1,10 +1,4 @@
-<head>
 
-	<title>sigh</title>
-
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 
 <h1> Heads or Tales?: Analyzing and Visualizing Canadian Narratives and Numismatics</h1>
 
