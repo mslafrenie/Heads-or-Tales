@@ -7,6 +7,8 @@
 
 **Release Date:** December 2000
 
+**Alternative Title:** Canada in the World
+
 **Description:** 
 
 
