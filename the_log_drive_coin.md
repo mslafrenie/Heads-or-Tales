@@ -2,8 +2,17 @@
 
 *     *     *     *  
 
-<div id="https://github.com/mslafrenie/March-99-Coin/viewer.html">
-  <script  type="text/javascript">
-    createRtiViewer("viewerContainer", "https://github.com/mslafrenie/March-99-Coin/tree/master/webrti-march", 900, 600); 
-  </script>
-</div>
+**Designer:** Marjolaine Lavoie
+
+**Release Date:** March 1999 
+
+**Description:** 
+
+
+<div id="viewerContainer">
+		<script  type="text/javascript">
+			createRtiViewer("viewerContainer", "webrti", 900, 600); 
+		</script>
+	</div>
+	
+{% include embedder.html id=page.March-99-Coin %}
