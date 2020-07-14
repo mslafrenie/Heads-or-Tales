@@ -8,6 +8,7 @@
 
 **Description:** This "coin is a tribute to contemporary Canadian Inuit art."
 
+**Myth(s) Resisted:** Myth of the Wilderness, Myth of the North
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
