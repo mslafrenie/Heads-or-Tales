@@ -10,6 +10,8 @@ The Numis-o-matic Machine was created for the purposes of HIST 5706: Guerilla Di
 
 [Our Northern Heritage](our-northern-heritage-coin.md)
 
+<iframe src="https://mslafrenie.github.io/April-99-Coin/viewer.html" width= 100%><iframe> 
+
 [The Voyageurs](the_voyageurs_coin.md)
 
 [Family](family_coin.md)
