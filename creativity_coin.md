@@ -11,6 +11,7 @@
 
 **Description:** This "coin applauds the rich legacy of Canadian artistic expression past and future."
 
+**Myth(s) Depicted:** Myth of the Wilderness via the canoe, Myth of Indigenous Cultural Stagnation
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
