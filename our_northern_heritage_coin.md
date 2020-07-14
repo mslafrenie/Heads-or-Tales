@@ -3,9 +3,10 @@
 *     *     *     *  
 
 **Designer:** Kenojouak Ashevak
-**Release Date:** April 1999
-**Description:** 
 
+**Release Date:** April 1999
+
+**Description:** 
 
 
 <div id="viewerContainer">
