@@ -6,7 +6,7 @@
 
 **Release Date:** April 1999
 
-**Description:** 
+**Description:** This "coin is a tribute to contemporary Canadian Inuit art."
 
 
 <div id="viewerContainer">
