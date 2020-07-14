@@ -8,9 +8,7 @@
 
 [The Log Drive](the_log_drive_coin.md)
 
-<div>
-<iframe src="https://mslafrenie.github.io/March-99-Coin/viewer.html">&nbsp;<iframe>
-</div>
+{% include embedder.html id=page.March-99-Coin/viewer.html}
 
 [Our Northern Heritage](our-northern-heritage-coin.md)
 
