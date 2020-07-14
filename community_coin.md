@@ -9,7 +9,7 @@
 
 **Alternative Title:** Canada in the World
 
-**Description:** 
+**Description:** This "coin portrays Canada's continuing leadership and contributions to the global community."
 
 
 <div id="viewerContainer">
