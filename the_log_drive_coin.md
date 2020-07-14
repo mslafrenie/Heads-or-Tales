@@ -17,4 +17,4 @@
 	
 {% include embedder.html id=page.March-99-Coin %}
 
-<iframe src="https://mslafrenie.github.io/March-99-Coin/index.html" width = 100%></iframe>
+<iframe src="https://mslafrenie.github.io/March-99-Coin" width = 100%></iframe>
