@@ -11,6 +11,7 @@
 
 **Description:** This "coin is a tribute to the family, the fabric of Canadian society, and depicts two wolves, symbols of togetherness."
 
+**Myth(s) Resisted:** Myth of Indigenous Cultural Stagnation, Myths of Colonization and Broken Family Structures
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
