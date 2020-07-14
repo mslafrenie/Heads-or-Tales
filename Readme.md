@@ -8,13 +8,12 @@
 
 [The Log Drive](the_log_drive_coin.md)
 
-{% include embedder.html id=page.March-99-Coin/viewer.html}
+{% include embedder.html id=page.March-99-Coin/viewer.html %}
 
 [Our Northern Heritage](our-northern-heritage-coin.md)
 
-<div>
-<iframe src="https://mslafrenie.github.io/April-99-Coin/viewer.html" width= 100%>&nbsp;<iframe> 
-</div>
+{% include embedder.html id=page.April-99-Coin/viewer.html %}
+
 
 [The Voyageurs](the_voyageurs_coin.md)
 
