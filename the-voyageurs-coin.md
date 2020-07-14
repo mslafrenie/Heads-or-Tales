@@ -7,7 +7,7 @@
 
 **Release Date:** May 1999
 
-**Description:** 
+**Description:** This "coin depicts the voyageurs who travelled Canada's rivers by canoe to explore new lands and develop the fur trade."
 
 
 <div id="viewerContainer">
