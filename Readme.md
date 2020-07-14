@@ -8,7 +8,7 @@
 
 [The Log Drive](the_log_drive_coin.md)
 
-{% include embedder.html id=page.March-99-Coin/ %}
+{% include embedder.html id=page.March-99-Coin %}
 
 [Our Northern Heritage](our-northern-heritage-coin.md)
 
