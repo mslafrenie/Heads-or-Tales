@@ -9,7 +9,7 @@
 
 **Alternative Title:** Expressions For All Time
 
-**Description:** 
+**Description:** This "coin applauds the rich legacy of Canadian artistic expression past and future."
 
 
 <div id="viewerContainer">
