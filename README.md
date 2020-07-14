@@ -6,17 +6,17 @@ The goal of this project is to challenge dominant narratives of Canadian commemo
 
 *Click on the links below to learn more about the project and find further resources!*
  
-[The Log Drive](https://mslafrenie.github.io/March-99-Coin/viewer.html)
+[The Log Drive](the_log_drive_coin.md)
 
 [Our Northern Heritage](our_northern_heritage_coin.md)
 
-[The Voyageurs](https://mslafrenie.github.io/May-99-Coin/viewer.html)
+[The Voyageurs](the-voyageurs-coin.md)
 
-[Family](https://mslafrenie.github.io/Family-2000-Coin/viewer.html)
+[Family](family_coin.md)
 
-[Creativity](https://mslafrenie.github.io/Creativity-2000-Coin/viewer.html)
+[Creativity](creativity_coin.md)
 
-[Community](https://mslafrenie.github.io/Community-2000-Coin/viewer.html)
+[Community](community_coin.md)
 
 [Citations](citations.md)
 
