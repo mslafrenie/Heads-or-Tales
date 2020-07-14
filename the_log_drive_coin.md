@@ -16,3 +16,5 @@
 	</div>
 	
 {% include embedder.html id=page.March-99-Coin %}
+
+<iframe src="https://mslafrenie.github.io/March-99-Coin/viewer.html" width = 100%></iframe>
