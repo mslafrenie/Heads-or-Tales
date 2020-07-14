@@ -7,7 +7,8 @@
 
 **Release Date:** August 2000
 
-**Alternative Title:** The Ties That Bad
+**Alternative Title:** The Ties That Bind
+
 **Description:** 
 
 
