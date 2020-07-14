@@ -8,6 +8,8 @@ The goal of this project is to challenge dominant narratives of Canadian commemo
  
 [The Log Drive](https://mslafrenie.github.io/March-99-Coin/viewer.html)
 
+<iframe src="https://mslafrenie.github.io/March-99-Coin/viewer.html">
+
 [Our Northern Heritage](https://mslafrenie.github.io/April-99-Coin/viewer.html)
 
 [The Voyageurs](https://mslafrenie.github.io/May-99-Coin/viewer.html)
