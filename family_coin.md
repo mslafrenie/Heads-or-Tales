@@ -15,6 +15,8 @@
 
 ![Image]()
 
+[View with RTI]()
+
 <div id="viewerContainer">
 		<script  type="text/javascript">
 			createRtiViewer("viewerContainer", "webrti", 900, 600); 
