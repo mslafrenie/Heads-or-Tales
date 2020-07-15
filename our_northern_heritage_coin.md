@@ -10,9 +10,9 @@
 
 **Myth(s) Resisted:** Myth of the Wilderness, Myth of the North
 
-![Image]()
+					![Image](April-1999.jpg)
 
-[View with RTI]()
+[View with RTI](https://mslafrenie.github.io/April-99-Coin/)
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
