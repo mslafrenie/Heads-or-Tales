@@ -2,8 +2,10 @@
 
 *     *     *     *  
 
-<div id="viewerCont">
+<div id="viewer.html">
 			<script  type="text/javascript">
-				createRtiViewer("viewerCont", "webrti-march", 491, 427); 
+				createRtiViewer("viewer.html", "webrti-march", 491, 427); 
 			</script>
 		</div>
+
+
