@@ -10,9 +10,9 @@
 
 **Myth Depicted:** Myth of the Wilderness
 
-<div id="webrti-march">
+<div id="March-99-Coin/index.html">
 		<script  type="text/javascript">
-			createRtiViewer("viewerContainer", "March-99-Coin", 900, 600); 
+			createRtiViewer("viewerContainer", "webrti-march", 900, 600); 
 		</script>
 	</div>
   
