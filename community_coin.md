@@ -13,9 +13,9 @@
 
 **Myth Depicted:** Myth of Peacekeeping via global citizenship
 
-![Image]()
+![Image](Community-2000.jpg)
 
-[View with RTI]()
+[View with RTI](https://mslafrenie.github.io/Community-2000-Coin/)
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
