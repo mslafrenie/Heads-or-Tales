@@ -10,6 +10,8 @@
 
 **Myth Depicted:** Myth of the Wilderness
 
+![Image]()
+
 <div id="viewerCont">
 			<script  type="text/javascript">
 				createRtiViewer("viewerCont", "webrti-march", 491, 427); 
