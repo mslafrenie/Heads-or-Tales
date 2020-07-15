@@ -12,6 +12,8 @@
 
 ![Image]()
 
+[View with RTI]()
+
 <div id="viewerCont">
 			<script  type="text/javascript">
 				createRtiViewer("viewerCont", "webrti-march", 491, 427); 
