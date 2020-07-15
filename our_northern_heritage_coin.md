@@ -2,7 +2,7 @@
 
 *     *     *     *  
 
-**Designer:** Kenojouak Ashevak
+**Designer:** Kenojuak Ashevak
 
 **Release Date:** April 1999
 
@@ -10,9 +10,11 @@
 
 **Myth(s) Resisted:** Myth of the Wilderness, Myth of the North
 
+[Access Web RTI Viewer](https://mslafrenie.github.io/April-99-Coin/)
+
 ![Image](April-1999.jpg)
 
-[View with RTI](https://mslafrenie.github.io/April-99-Coin/)
+
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
