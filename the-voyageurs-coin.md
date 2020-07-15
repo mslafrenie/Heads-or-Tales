@@ -11,10 +11,12 @@
 
 **Myth Depicted:** Myth of the Wilderness via the canoe
 
+![Image]()
+
 <div id="viewerContainer">
 		<script  type="text/javascript">
 			createRtiViewer("viewerContainer", "webrti", 900, 600); 
 		</script>
 	</div>
 	
-{% include embedder.html id=page.May-99-Coin %}
+
