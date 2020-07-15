@@ -13,9 +13,11 @@
 
 **Myth(s) Resisted:** Myth of Indigenous Cultural Stagnation, Myths of Colonization and Broken Family Structures
 
+[Access Web RTI Viewer](https://mslafrenie.github.io/Family-2000-Coin/)
+
 ![Image](Family-2000.jpg)
 
-[View with RTI](https://mslafrenie.github.io/Family-2000-Coin/)
+
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
