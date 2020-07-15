@@ -11,9 +11,9 @@
 
 **Myth Depicted:** Myth of the Wilderness via the canoe
 
-![Image]()
+![Image](May-1999-v.2.jpg)
 
-[View with RTI]()
+[View with RTI](https://mslafrenie.github.io/May-99-Coin/)
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
