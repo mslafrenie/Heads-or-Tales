@@ -13,10 +13,11 @@
 
 **Myth(s) Resisted:** Myth of Indigenous Cultural Stagnation, Myths of Colonization and Broken Family Structures
 
+![Image]()
+
 <div id="viewerContainer">
 		<script  type="text/javascript">
 			createRtiViewer("viewerContainer", "webrti", 900, 600); 
 		</script>
 	</div>
 	
-{% include embedder.html id=page.Family-2000-Coin %}
