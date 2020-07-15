@@ -10,9 +10,9 @@
 
 **Myth Depicted:** Myth of the Wilderness
 
-![Image]()
+![Image](March-1999.jpg)
 
-[View with RTI]()
+[View with RTI](https://mslafrenie.github.io/March-99-Coin/)
 
 <div id="viewerCont">
 			<script  type="text/javascript">
