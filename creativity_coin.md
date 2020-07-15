@@ -13,9 +13,11 @@
 
 **Myth(s) Depicted:** Myth of the Wilderness via the canoe, Myth of Indigenous Cultural Stagnation
 
+[Access Web RTI Viewer](https://mslafrenie.github.io/Creativity-2000-Coin/)
+
 ![Image](Creativity-2000.jpg)
 
-[View with RTI](https://mslafrenie.github.io/Creativity-2000-Coin/)
+
 
 <div id="viewerContainer">
 		<script  type="text/javascript">
