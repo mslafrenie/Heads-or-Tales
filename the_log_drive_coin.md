@@ -8,6 +8,11 @@
 
 **Description:** 
 
-{% include embedder.html id=page.March-99-Coin %}
+<div id="viewerCont">
+			<script  type="text/javascript">
+				createRtiViewer("viewerCont", "webrti-march", 491, 427); 
+			</script>
+		</div>
+
 
 
