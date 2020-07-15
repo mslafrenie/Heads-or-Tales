@@ -13,10 +13,11 @@
 
 **Myth Depicted:** Myth of Peacekeeping via global citizenship
 
+![Image]()
+
 <div id="viewerContainer">
 		<script  type="text/javascript">
 			createRtiViewer("viewerContainer", "webrti", 900, 600); 
 		</script>
 	</div>
 	
-{% include embedder.html id=page.Community-2000-Coin %}
