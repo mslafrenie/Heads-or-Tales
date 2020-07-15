@@ -16,7 +16,6 @@
 		</script>
 	</div>
   
-{% include embedder.html id=page.March-99-Coin %}
 
 
 
