@@ -13,11 +13,12 @@
 
 **Myth(s) Depicted:** Myth of the Wilderness via the canoe, Myth of Indigenous Cultural Stagnation
 
+![Image]()
+
 <div id="viewerContainer">
 		<script  type="text/javascript">
 			createRtiViewer("viewerContainer", "webrti", 900, 600); 
 		</script>
 	</div>
 	
-{% include embedder.html id=page.Creativity-2000-Coin %}
 
