@@ -14,5 +14,5 @@
 **Myth(s) Resisted:** Myth of Indigenous Cultural Stagnation, Myths of Colonization and Broken Family Structures
 
 **RTI Default View:**
-{% include March-99-Coin.html %}
+{% include Family-2000-Coin.html %}
 
