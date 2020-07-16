@@ -11,16 +11,10 @@
 
 **Myth Depicted:** Myth of the Wilderness via the canoe
 
-[Access Web RTI Viewer](https://mslafrenie.github.io/May-99-Coin/)
-
-![Image](May-1999-v.2.jpg)
-
+**RTI Default View:**
+{% include May-99-Coin.html %}
 
 
-<div id="viewerContainer">
-		<script  type="text/javascript">
-			createRtiViewer("viewerContainer", "webrti", 900, 600); 
-		</script>
-	</div>
+
 	
 
