@@ -18,6 +18,6 @@ The goal of this project is to challenge dominant narratives of Canadian commemo
 
 [Community](community_coin.md)
 
-[The Essay](the_essay.md)
+[Research Essay](the_essay.md)
 
 [Download Paradata](paradata.md) 
