@@ -13,15 +13,5 @@
 
 **Myth Depicted:** Myth of Peacekeeping via global citizenship
 
-[Access Web RTI Viewer](https://mslafrenie.github.io/Community-2000-Coin/)
-
-![Image](Community-2000.jpg)
-
-
-
-<div id="viewerContainer">
-		<script  type="text/javascript">
-			createRtiViewer("viewerContainer", "webrti", 900, 600); 
-		</script>
-	</div>
-	
+**RTI Default View:**
+{% include Community-2000-Coin.html %}
