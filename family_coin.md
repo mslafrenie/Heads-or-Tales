@@ -2,6 +2,7 @@
 
 *     *     *     *  
 **Unprocessed Photographic View**
+
 ![Image](Unprocessed-Family-2000.jpg)
 
 While examining this coin consider the following:
