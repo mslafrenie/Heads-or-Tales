@@ -2,7 +2,7 @@
 
 *     *     *     *  
 **Unprocessed Photographic View**
-![Image](March-1999.jpg)
+![Image](Unprocessed-March-1999.jpg)
 
 While examining this coin consider the following:
 - What elements of its design stand out most? 
@@ -23,7 +23,7 @@ After exploring the unprocessed photographic view of this coin take a look at th
 
 ----
 
-Now that you have viewed both the unprocessed image and the RTI model take a look at the background information for this coin and my close reading of the myth identified as part of its banal nationalistic power:
+Now that you have viewed both the unprocessed image and the RTI model, take a look at the background information for this coin and my close reading of the myth identified as part of its banal nationalistic power:
 
 **Designer:** Marjolaine Lavoie
 
