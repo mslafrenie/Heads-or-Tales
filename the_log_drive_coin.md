@@ -1,11 +1,6 @@
 # The Log Drive 
 
 *     *     *     *  
-
-**Designer:** Marjolaine Lavoie
-
-**Release Date:** March 1999 
-
 **Unprocessed Photographic View**
 ![Image](March-1999.jpg)
 
@@ -28,7 +23,11 @@ After exploring the unprocessed photographic view of this coin take a look at th
 
 ----
 
-Now that you have viewed both the unprocessed image and the RTI model take a look at the official description and the myth I have identified as part of its banal nationalistic power:
+Now that you have viewed both the unprocessed image and the RTI model take a look at the background information for this coin and my close reading of the myth identified as part of its banal nationalistic power:
+
+**Designer:** Marjolaine Lavoie
+
+**Release Date:** March 1999 
 
 **Official Description:** This "coin depicts the courage and valiant contribution of the raftsmen to Canada's development and prosperity."
 
