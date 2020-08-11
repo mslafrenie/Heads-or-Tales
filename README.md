@@ -20,7 +20,7 @@ The goal of this project is to challenge dominant narratives of Canadian commemo
 
 [Research Essay](the_essay.md)
 
-[Download Paradata](paradata.md) 
+[Read Paradata](paradata.md) 
 
 
 The WebRTIViewer and the webGLRtiMaker, that made this project accesible online, were developed by [Gianpaulo Palma, Visual Computing Lab of ISTI-CNR.](http://vcg.isti.cnr.it/rti/webviewer.php) 
