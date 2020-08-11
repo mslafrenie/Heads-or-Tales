@@ -1,9 +1,7 @@
 # Family
 
 *     *     *     *  
-**Unprocessed Photographic View**
-
-![Image](Unprocessed-Family-2000.jpg)
+**Unprocessed Photographic View** ![Image](Unprocessed-Family-2000.jpg)
 
 While examining this coin consider the following:
 - What elements of its design stand out most? 
