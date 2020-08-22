@@ -25,4 +25,4 @@ The goal of this project is to challenge dominant narratives of Canadian commemo
 
 The WebRTIViewer and the webGLRtiMaker, that made this project accesible online, were developed by [Gianpaulo Palma, Visual Computing Lab of ISTI-CNR.](http://vcg.isti.cnr.it/rti/webviewer.php) 
 
-To learn more about RTI please visit the [Cultural Heritage Imaging website](http://culturalheritageimaging.org/Technologies/RTI/)
+To learn more about RTI please visit the [Cultural Heritage Imaging website.](http://culturalheritageimaging.org/Technologies/RTI/)
